@@ -25,3 +25,6 @@ Graphic 2D Tetris: https://www.youtube.com/watch?v=3OwJHrBrQ_g
 2.5D Isometric Tetris: https://www.youtube.com/watch?v=Uv40qTFuPUI
 Graphic 3D Tetris: https://youtu.be/7IFc4vWPHA8
 
+2013 - Flappy Bird - https://en.wikipedia.org/wiki/Flappy_Bird
+==============================================================
+Flappy Bird clone game: https://www.youtube.com/watch?v=IhKQ2923QoE
