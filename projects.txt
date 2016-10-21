@@ -1,22 +1,31 @@
 I'm using this site as a reference: http://ultimatehistoryvideogames.jimdo.com/
 
----
+---------------------------------------------------------------------------------------------
+
 1972 - Pong - https://en.wikipedia.org/wiki/Pong
 ================================================
 ASCII Text JTextArea Pong - https://www.youtube.com/watch?v=tbIRarGDGbU
 
----
+---------------------------------------------------------------------------------------------
+
 1974 - Maze War - https://en.wikipedia.org/wiki/Maze_War
 ========================================================
 2.5D Maze War test - https://www.youtube.com/watch?v=c4Q7ryLAf-A
 
----
-1976 - Snake - https://en.wikipedia.org/wiki/Snake_(video_game)
+---------------------------------------------------------------------------------------------
+1976
+
+Breakout - https://en.wikipedia.org/wiki/Breakout_(video_game)
+==============================================================
+Breakout (using LibZ game library) - https://www.youtube.com/watch?v=lcIiiGfJ2as
+
+Snake - https://en.wikipedia.org/wiki/Snake_(video_game)
 ===============================================================
 ASCII Text JTextArea Snake: https://www.youtube.com/watch?v=L5PiJz-PmjI
 2D Snake Roulette: https://www.youtube.com/watch?v=auQUQIgr7vI
 
----
+---------------------------------------------------------------------------------------------
+
 1984 - Tetris - https://en.wikipedia.org/wiki/Tetris
 ====================================================
 ASCII Text JTextArea Tetris: https://youtu.be/FyDP-KxY4RM
@@ -24,6 +33,8 @@ Graphic 2D Tetris: https://www.youtube.com/watch?v=3OwJHrBrQ_g
 2D Radial Tetris: https://www.youtube.com/watch?v=Etd8uE4CmcQ
 2.5D Isometric Tetris: https://www.youtube.com/watch?v=Uv40qTFuPUI
 Graphic 3D Tetris: https://youtu.be/7IFc4vWPHA8
+
+---------------------------------------------------------------------------------------------
 
 2013 - Flappy Bird - https://en.wikipedia.org/wiki/Flappy_Bird
 ==============================================================
