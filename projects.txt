@@ -2,6 +2,12 @@ I'm using this site as a reference: http://ultimatehistoryvideogames.jimdo.com/
 
 ---------------------------------------------------------------------------------------------
 
+1952 - OXO (Tic Tac Toe) - https://en.wikipedia.org/wiki/OXO
+============================================================
+OXO Minimax algorithm test + 3D view - https://www.youtube.com/watch?v=pJ2UFmMXXtE
+
+---------------------------------------------------------------------------------------------
+
 1972 - Pong - https://en.wikipedia.org/wiki/Pong
 ================================================
 ASCII Text JTextArea Pong - https://www.youtube.com/watch?v=tbIRarGDGbU
