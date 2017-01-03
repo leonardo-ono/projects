@@ -44,6 +44,12 @@ Lunar Lander - https://en.wikipedia.org/wiki/Lunar_Lander_%281979_video_game%29
 
 ---------------------------------------------------------------------------------------------
 
+1982 - Sokoban - https://en.wikipedia.org/wiki/Sokoban
+====================================================
+ASCII Text JTextArea Sokoban test: https://youtu.be/n2L3jbssAZ0
+
+---------------------------------------------------------------------------------------------
+
 1984 - Tetris - https://en.wikipedia.org/wiki/Tetris
 ====================================================
 ASCII Text JTextArea Tetris: https://youtu.be/FyDP-KxY4RM
