@@ -48,6 +48,7 @@ Lunar Lander - https://en.wikipedia.org/wiki/Lunar_Lander_%281979_video_game%29
 ====================================================
 ASCII Text JTextArea Sokoban test: https://youtu.be/n2L3jbssAZ0
 Graphics 2D Sokoban test: https://youtu.be/389pM0JDfH8
+Stickman Sokoban 3D test: https://youtu.be/co3ilmGNnTM
 
 ---------------------------------------------------------------------------------------------
 
