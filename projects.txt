@@ -32,6 +32,12 @@ ASCII Text JTextArea Snake: https://www.youtube.com/watch?v=L5PiJz-PmjI
 
 ---------------------------------------------------------------------------------------------
 
+1978 - Space Invaders - https://en.wikipedia.org/wiki/Space_Invaders
+========================================================
+Space Invaders (clone) - https://youtu.be/cORWVUL6eg4
+
+---------------------------------------------------------------------------------------------
+
 1979
 
 Asteroids - https://en.wikipedia.org/wiki/Asteroids_(video_game)
