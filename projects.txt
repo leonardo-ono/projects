@@ -43,6 +43,7 @@ Space Invaders (clone) - https://youtu.be/cORWVUL6eg4
 Asteroids - https://en.wikipedia.org/wiki/Asteroids_(video_game)
 ================================================================
 3D Asteroids Arcade Machine demo test: https://www.youtube.com/watch?v=5rnkJssDKDQ
+2D Asteroids Survival game test: https://youtu.be/2ewWLKyxELA
 
 Lunar Lander - https://en.wikipedia.org/wiki/Lunar_Lander_%281979_video_game%29
 ================================================================
