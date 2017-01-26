@@ -51,6 +51,12 @@ Lunar Lander - https://en.wikipedia.org/wiki/Lunar_Lander_%281979_video_game%29
 
 ---------------------------------------------------------------------------------------------
 
+1980 - Pacman - https://en.wikipedia.org/wiki/Pac-Man
+========================================================
+2D Pacman - https://youtu.be/Wuq6HS9cXGs
+
+---------------------------------------------------------------------------------------------
+
 1982 - Sokoban - https://en.wikipedia.org/wiki/Sokoban
 ====================================================
 ASCII Text JTextArea Sokoban test: https://youtu.be/n2L3jbssAZ0
