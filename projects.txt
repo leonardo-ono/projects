@@ -57,6 +57,12 @@ Lunar Lander - https://en.wikipedia.org/wiki/Lunar_Lander_%281979_video_game%29
 
 ---------------------------------------------------------------------------------------------
 
+1981 - Donkey Kong - https://en.wikipedia.org/wiki/Donkey_Kong
+========================================================
+2D Donkey Kong - https://youtu.be/kw_jYTqqg0M
+
+---------------------------------------------------------------------------------------------
+
 1982 - Sokoban - https://en.wikipedia.org/wiki/Sokoban
 ====================================================
 ASCII Text JTextArea Sokoban test: https://youtu.be/n2L3jbssAZ0
