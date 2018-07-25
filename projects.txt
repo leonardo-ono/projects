@@ -99,6 +99,22 @@ Roller Ball - https://en.wikipedia.org/wiki/Rollerball_%28video_game%29
 
 ---------------------------------------------------------------------------------------------
 
+1985 
+
+Super Mario Bros - https://en.wikipedia.org/wiki/Super_Mario_Bros.
+====================================================
+Super Mario Bros (1985) Progress #1: https://youtu.be/XL-BDsU6R8I
+Super Mario Bros (1985) Progress #2: https://youtu.be/Tqrd5oaJHA4
+
+---------------------------------------------------------------------------------------------
+
+King's Valley - https://en.wikipedia.org/wiki/King%27s_Valley
+====================================================
+King's Valley (1985) / Enemy AI Chase Behavior Test #1: https://youtu.be/1w71u6lcQes
+King's Valley (1985) / Completed #2: https://youtu.be/lfGqbkczF3M
+
+---------------------------------------------------------------------------------------------
+
 1991 - Street Fighter II - https://pt.wikipedia.org/wiki/Street_Fighter_II
 ====================================================
 floor scrolling using 2D SHEAR transformation test #1: https://youtu.be/XSAtO-Ru36c
@@ -106,6 +122,25 @@ stage scrolling + hadouken test #2: https://youtu.be/T4jruN9yIF8
 
 ---------------------------------------------------------------------------------------------
 
+1992 - Super Mario Kart - https://en.wikipedia.org/wiki/Super_Mario_Kart
+==============================================================
+Super Mario Kart (1992) racing game - Progress / Test #1: https://youtu.be/ZeVZ3fy4phk
+
+---------------------------------------------------------------------------------------------
+
+2010 - Cut The Rope - https://en.wikipedia.org/wiki/Cut_the_Rope
+==============================================================
+Cut The Rope (2010) / 2D Verlet Physics: https://youtu.be/aDboKq2U26w
+
+---------------------------------------------------------------------------------------------
+
+2012 - Hill Climb Racing - https://en.wikipedia.org/wiki/Hill_Climb_Racing_(video_game)
+==============================================================
+Hill Climb Racing (2012) with Verlet Integration Physics Test #1: https://youtu.be/nnUamUyE6vo
+
+---------------------------------------------------------------------------------------------
+
 2013 - Flappy Bird - https://en.wikipedia.org/wiki/Flappy_Bird
 ==============================================================
 Flappy Bird clone game: https://www.youtube.com/watch?v=IhKQ2923QoE
+
